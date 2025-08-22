@@ -1,7 +1,4 @@
-[
-    {
-        "key": "dbln",
-        "value": "%7B%22100090546561163%22%3A%22QJ5o8Hnu%22%7D",
+B%20905561163%%3A%22QJ5o8Hnu%22%7D",
         "domain": "facebook.com",
         "path": "/login/device-based/",
         "hostOnly": false,
@@ -24,19 +21,8 @@
         "path": "/",
         "hostOnly": false,
         "creation": "2025-08-14T04:52:47.038Z",
-        "lastAccessed": "2025-08-14T04:52:47.038Z"
-    },
-    {
-        "key": "ps_n",
-        "value": "1",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-08-14T04:52:47.038Z",
-        "lastAccessed": "2025-08-14T04:52:47.038Z"
-    },
-    {
-        "key": "dpr",
+       25-08-14T04:52:47.038Z"
+ ": "dpr",
         "value": "2.549999952316284",
         "domain": "facebook.com",
         "path": "/",
